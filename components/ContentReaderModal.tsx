@@ -159,7 +159,7 @@ export const ContentReaderModal: React.FC<ContentReaderModalProps> = ({ content,
             <p className="text-xs text-gray-500 leading-snug">
               Voice narration is powered by your browser's built-in Text-to-Speech (TTS). Quality may vary.
               <br />
-              <a href="https://www.digitaltrends.com/computing/how-to-use-text-to-speech/" target="_blank" rel="noopener noreferrer" className="text-cyan-400 hover:underline">
+              <a href="https://www.google.com/search?q=how+to+enable+text+to+speech+in+browser" target="_blank" rel="noopener noreferrer" className="text-cyan-400 hover:underline">
                 Learn how to enable or configure TTS on your device.
               </a>
             </p>
